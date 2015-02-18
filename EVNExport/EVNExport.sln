@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVNExport", "EVNExport\EVNExport.csproj", "{19E7C76F-4AB0-499F-86CE-3E2A05BEF268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVNExport.Tests", "EVNExport.Tests\EVNExport.Tests.csproj", "{FAB7FBE0-0940-4F6A-A03B-738E21D3D900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVNexport.Domain", "EVNexport.Domain\EVNexport.Domain.csproj", "{B509B1E0-B12F-4AC2-B0CC-62C1EC14EFA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E7C76F-4AB0-499F-86CE-3E2A05BEF268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E7C76F-4AB0-499F-86CE-3E2A05BEF268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E7C76F-4AB0-499F-86CE-3E2A05BEF268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E7C76F-4AB0-499F-86CE-3E2A05BEF268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB7FBE0-0940-4F6A-A03B-738E21D3D900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB7FBE0-0940-4F6A-A03B-738E21D3D900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB7FBE0-0940-4F6A-A03B-738E21D3D900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB7FBE0-0940-4F6A-A03B-738E21D3D900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B509B1E0-B12F-4AC2-B0CC-62C1EC14EFA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B509B1E0-B12F-4AC2-B0CC-62C1EC14EFA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B509B1E0-B12F-4AC2-B0CC-62C1EC14EFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B509B1E0-B12F-4AC2-B0CC-62C1EC14EFA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
